@@ -1,0 +1,42 @@
+详细有需要的可以去购买授权文件
+https://downloads.aspose.com/total/net
+本项目提供破解、侵权等使用。建议使用替代产品，解决你打当前问题，授权收费。
+
+
+授权收费，不免费提供，大神真想用的可以去破解、购买授权。
+
+
+
+1.基本介绍
+Aspose.Words是一个商业.NET类库，可以使得应用程序处理大量的文件任务。Aspose.Words支持Doc，Docx，RTF，HTML，OpenDocument，PDF，XPS，EPUB和其他格式。使用Aspose.Words可以在不使用Microsoft.Word的情况下生成、修改、转换和打印文档。在项目中使用Aspose.Words可以有以下好处。
+
+1.1丰富的功能集
+其丰富的功能特性主要有以下4个方面：
+
+1)格式转换。Aspose.Words具有高质量的文件格式转换功能，可以和Doc，OOXL，RTF，TXT等格式互相转换。
+
+2)文档对象模型。通过丰富的API以编程方式访问所有的文档元素和格式，允许创建，修改，提取，复制，分割，加入，和替换文件内容。
+
+3)文件渲染。可以在服务器端转换整个文档或者页面为PDF，XPS，SWF格式，同样可以转换文档页面为图像格式，或者.NET Graphics对象，这些功能和Microsoft.Word是一样的。
+
+4)报表。可以从对象或者数据源填充模版生成文件。
+
+1.2不需要Microsoft.Word
+Aspose.Words可以在没有安装Microsoft Office的机器上工作。所有的Aspose组件都是独立，不需要微软公司的授权。总之， Aspose.Words在安全性、稳定性、可扩展性、速度、价格和自动化功能方面，是一个很不错的选择。
+
+1.3独立的平台
+Aspose.Words可以运行在Windows，Linux和Mac OS操作系统上面。可以使用Aspose.Words去创建32位或者64位的.NET应用程序，包括Asp.NET、WCF、WinForm等等，还可以使用Com组件在Asp、Perl、PHP和Python语言中使用，同样可以在Mono平台上使用Aspose.Words建立.NET应用程序。
+
+1.4性能和可伸缩性
+Aspose.Words可以运行在服务器和客户端，它是一个独立的.NET程序集，可以被任何.NET应用程序复制和部署。使用Aspose.Words可以在短时间内产生成千上万的文档，可以打开文档，并修改格式和内容，填充数据并保存。Aspose.Words是多线程安全的，不同的线程在同一时间处理不同的文档。
+
+1.5最小的学习曲线
+虽然Aspose.Words拥有150多个公共类和枚举类型，但是Aspose.Words的学习曲线很小因为Aspose.Words的API是围绕下列目标精心设计的：
+
+1) 借鉴一些著名的API设计经验，如Microsoft Word。
+
+2) 借鉴.NET框架设计指南的经验。
+
+3) 提供易于使用的详细的文档元素操作文档。
+
+以前在项目中使用Microsoft Word的开发者，可以在Aspose.Words中找到很多熟悉的类、方法和属性。
