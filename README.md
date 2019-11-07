@@ -1,17 +1,23 @@
-# NetGuide
+<!-- TOC -->autoauto- [1. NetGuide介绍](#1-netguide介绍)auto- [2. C# 基础知识](#2-c-基础知识)auto    - [2.1. 组件介绍](#21-组件介绍)auto        - [2.1.1. Excel 操作](#211-excel-操作)auto            - [2.1.1.1. [NPOI](https://github.com/dotnetcore/NPOI)介绍](#2111-npoihttpsgithubcomdotnetcorenpoi介绍)auto            - [2.1.1.2. [NPOI](https://github.com/dotnetcore/NPOI)介绍](#2112-npoihttpsgithubcomdotnetcorenpoi介绍)auto    - [2.2. 特此感谢](#22-特此感谢)autoauto<!-- /TOC -->
+
+
+
+
+
+# 1. NetGuide介绍
 > 中文介绍为主，附带英文提交代码，做自己职业生涯的导航标。
 为了优化大家的阅读体验，我重新进行了排版，并且增加了较为详细的目录供大家参考！如果有老哥对操作系统比较重要的知识总结过的话，欢迎找我哦！  
  
 
 [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-721420150-red.svg)](http://qm.qq.com/cgi-bin/qm/qr?k=zjBZ-kGA-LmVNuwPLPD8Xa5dtqli9EeY)
  
-## C# 基础知识
+# 2. C# 基础知识
 
 
-## 组件介绍
+## 2.1. 组件介绍
 
-### Excel 操作
-#### 1. [NPOI](https://github.com/dotnetcore/NPOI)介绍
+### 2.1.1. Excel 操作
+#### 2.1.1.1. [NPOI](https://github.com/dotnetcore/NPOI)介绍
 > 用于读取和写入Microsoft Office二进制和OOXML文件格式的.NET库。
  
 **详细代码如下**
@@ -81,11 +87,11 @@ using (var fs = new FileStream(newFile2, FileMode.Create, FileAccess.Write)) {
 ```
 
 ----
-#### 1. [NPOI](https://github.com/dotnetcore/NPOI)介绍
+#### 2.1.1.2. [NPOI](https://github.com/dotnetcore/NPOI)介绍
 
  
 ----
-## 特此感谢
+## 2.2. 特此感谢
 - 参考资料项目  [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
 - 参考开源项目  [dotnet](https://docs.microsoft.com/zh-cn/dotnet/index)    
  -----
