@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AutofactMVC.Repository.Core.BaseRepository&lt;TEntity&gt;">
+    <Position X="3.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAAAAAAAACAABEIAEAAAIAAAAAQAAA=</HashCode>
+      <FileName>Repository\Core\BaseRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AutofactMVC.Repository.Core.UnitOfWorkRepository">
+    <Position X="9.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAgCAAAAAiAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Core\UnitOfWorkRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="AutofactMVC.Repository.Core.IRepository&lt;TEntity&gt;">
+    <Position X="1.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAACAABEIAEAAAIAAAAAQAAA=</HashCode>
+      <FileName>Repository\Core\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AutofactMVC.Repository.Core.IUnitOfWorkRepository">
+    <Position X="6.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\Core\IUnitOfWorkRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
